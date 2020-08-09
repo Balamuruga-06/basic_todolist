@@ -1,0 +1,21 @@
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color:black;
+    border-width: 5px;
+    width:5%;
+    height: 0px;
+}
+form{
+    background-color: #e4e3e3;
+    width: 300px;
+    border-radius: 10px;
+}
+h2
+{
+    font-style: normal;
+    font-variant: none;
+    font-weight: normal;
+    font-size:16px;
+    font-family: sans-serif;
+}

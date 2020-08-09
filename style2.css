@@ -1,0 +1,79 @@
+body
+{
+    
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1
+{
+    font-size: 5.625rem;
+    margin: 0 auto;
+    font-family: 'Sacramento', cursive;
+}
+.top-container
+{
+    position: relative;
+    padding-top: 100px;
+    background-color:#E4F9F5;
+}
+.mountain
+{
+    width: 50%;
+    margin: auto;
+}
+hr
+{
+    border: dotted 6px #EAF6F6;
+    border-bottom: none;
+    width: 10%;
+}
+.middle-container
+{
+    margin-top: 10px;
+    padding: 50px;
+}
+#profile
+{
+    width: 7%;
+    border-radius: 50%;
+}
+.skills
+{
+    padding: 30px 0px;
+}
+.skill-content
+{
+    width: 40%;
+    margin: 30px auto;
+}
+.skill
+{
+    width: 5%;
+}
+.contact
+{
+    width: 3%;
+    margin: 5px;
+}
+a
+{
+    text-decoration: none;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+.bottom-container
+{
+    background-color: #a6dcef;
+    padding-top: 15px;
+}
+a:hover
+{
+    color:#EAF6F6;
+}
+.copy
+{
+    font-family: serif;
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    padding: 20px 0px;
+}
